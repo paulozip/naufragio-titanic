@@ -4,6 +4,7 @@ Este estudo visa analisar dados de um <i>dataset</i> contendo informações acer
 * Quantas pessoas sobreviveram ao desastre, segundo este dataset. Quantas não sobreviveram?
 * A classe em que o passageiro encontrava-se foi um fator decisivo para a sobrevivência?
 * Qual foi a proporção de homens e mulheres que sobreviveram a tragédia?
+* Será que o número de sobreviventes meninas foi muito maior que os sobreviventes meninos?
 * Quem são os passageiros que não tiveram sua tarifa cobrada? Eles sobreviveram?
 
 # Requirements
