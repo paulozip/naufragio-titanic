@@ -9,6 +9,7 @@ Este estudo visa analisar dados de um <i>dataset</i> contendo informações acer
 
 # Requirements
 * Python 3.5
+* Seaborn
 * Matplotlib
 * Pandas
 * Random
